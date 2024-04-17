@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Presentación</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="slides">
+        <div class="slide" id="slide1">PROYECTO RICK AND MORTY</div>
+        <div class="slide" id="slide2">CONTENIDO HTML</div>
+        <div class="slide" id="slide3">CONTENIDO CSS</div>
+        <div class="slide" id="slide4">CONTENIDO JS</div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
